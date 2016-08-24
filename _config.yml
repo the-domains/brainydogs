@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Get BTFD
+    url: 'http://bef78ihkiac9u6254xkd5cqc5l.hop.clickbank.net/?tid=GRIDWEB'
+    type: external
 favicon: null
 title: Are you ready to own a genius dog?
 description: >-
