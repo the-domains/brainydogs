@@ -1,19 +1,4 @@
-name: BrainyDogs
-favicon: null
-layout_spectrum: 0.23388442490249872
 typography_spectrum: 0.9531499871518463
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.30452460888773203
   saturation: 0.5397575979586691
   rhythmicContrast: 0.760876226471737
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23388442490249872
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: BrainyDogs
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Are you ready to own a genius dog?
 purpose: []
